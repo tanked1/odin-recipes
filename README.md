@@ -1,1 +1,2 @@
 # odin-recipes
+<!-- after completing this project I will have demonstrated the ability to utilize the command line, git commits, and a rudimentary understanding of html to create a webpage about cooking >
